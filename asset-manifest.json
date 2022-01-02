@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd3ced5e.css",
-    "main.js": "/static/js/main.3ba2c150.js",
-    "static/js/845.8e8df2a3.chunk.js": "/static/js/845.8e8df2a3.chunk.js",
-    "static/media/icon.png": "/static/media/icon.68a92cba980daacef414.png",
-    "static/media/pop.wav": "/static/media/pop.b2bcff50dd94f28e8ac5.wav",
-    "index.html": "/index.html",
-    "main.dd3ced5e.css.map": "/static/css/main.dd3ced5e.css.map",
-    "main.3ba2c150.js.map": "/static/js/main.3ba2c150.js.map",
-    "845.8e8df2a3.chunk.js.map": "/static/js/845.8e8df2a3.chunk.js.map"
+    "main.css": "/DesChiffres/static/css/main.dd3ced5e.css",
+    "main.js": "/DesChiffres/static/js/main.bcd03617.js",
+    "static/js/845.8e8df2a3.chunk.js": "/DesChiffres/static/js/845.8e8df2a3.chunk.js",
+    "static/media/icon.png": "/DesChiffres/static/media/icon.68a92cba980daacef414.png",
+    "static/media/pop.wav": "/DesChiffres/static/media/pop.b2bcff50dd94f28e8ac5.wav",
+    "index.html": "/DesChiffres/index.html",
+    "main.dd3ced5e.css.map": "/DesChiffres/static/css/main.dd3ced5e.css.map",
+    "main.bcd03617.js.map": "/DesChiffres/static/js/main.bcd03617.js.map",
+    "845.8e8df2a3.chunk.js.map": "/DesChiffres/static/js/845.8e8df2a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd3ced5e.css",
-    "static/js/main.3ba2c150.js"
+    "static/js/main.bcd03617.js"
   ]
 }
